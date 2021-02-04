@@ -1,1 +1,1 @@
-https://github.com/madein713/test/workflows/python-package.yml/badge.svg
+htt<img src="https://github.com/madein713/test/workflows/Python package/badge.svg?branch=master"><br>
