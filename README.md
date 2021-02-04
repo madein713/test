@@ -1,1 +1,1 @@
-<img src="https://github.com/madein713/test/workflows/pythonpackage/badge.svg?branch=master"><br>
+<img src="https://github.com/madein713/test/workflows/Pythonpackage/badge.svg?branch=master"><br>
